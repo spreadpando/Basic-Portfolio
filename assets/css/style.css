@@ -23,6 +23,12 @@ nav {
 	top: 10%;
 }
 
+nav ul li {
+	display: inline-block;
+	padding: 1% 0 0 22%;
+
+}
+
 section {
 	width: 70%;
 	height: 50%;
